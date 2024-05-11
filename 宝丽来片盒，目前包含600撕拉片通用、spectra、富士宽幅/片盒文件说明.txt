@@ -1,0 +1,5 @@
+polaroid film holder.stl 适用于600、sx70、撕拉片
+polaroid spectra film holder.stl 适用于宝丽来宽幅spectra相纸
+fuji instax wide massive storage.stl 适用于富士宽幅相纸，大存储量版本，一个片盒可以存储10盒（100张）
+
+均适用于fdm打印机，模型自带支撑，打印完可以自行掰断
