@@ -1,0 +1,29 @@
+改装主体：lomo instant wide 宽幅拍立得
+
+改装过程：
+1. 拆掉前壳
+2. 改自动停片
+3. 接线
+
+
+
+吸附用的磁铁【需要24个】
+R=5mmx2mm厚度
+https://item.taobao.com/item.htm?spm=a1z09.2.0.0.46142e8dMFuO4t&id=581159182970&_u=p24mbpbd8bb
+
+
+出片开关按钮【需要1个】
+带灯，颜色自选
+https://item.taobao.com/item.htm?spm=a1z09.2.0.0.2ae62e8dzvElpE&id=624831621319&_u=124mbpb5439
+
+
+10440电池2节、10440 2节的电池盒一个（需要带线的）
+电池
+https://detail.tmall.com/item.htm?id=520398008051&spm=a1z09.2.0.0.79712e8dp9CCVI&_u=424mbpb7596
+电池盒
+https://item.taobao.com/item.htm?spm=a1z09.2.0.0.79712e8dp9CCVI&id=602887123631&_u=424mbpbedfb
+
+改装后电池使用充电电池，要把电池盒拿出来充电，充完后放进去关闭电池舱门（之前4节5号电池的电池仓因为插刀阻挡，无法使用）
+
+
+磨砂玻璃屏108mmx69mm（自己选购）
